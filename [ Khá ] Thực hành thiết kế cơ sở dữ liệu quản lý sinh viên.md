@@ -1,4 +1,4 @@
-CREATE DATABASE UniversityDB
+CREATE DATABASE UniversityDB;
 CREATE SCHEMA university;
 CREATE TABLE university.students (
     student_id SERIAL PRIMARY KEY,
